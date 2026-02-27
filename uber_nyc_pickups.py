@@ -37,7 +37,7 @@ if st.checkbox('Show bar chart'):
 
   st.bar_chart(hist_values) 
 
-st.subheader('Map of all pickupss') 
+st.subheader('Map of all pickups') 
 
 st.map(data)
 
